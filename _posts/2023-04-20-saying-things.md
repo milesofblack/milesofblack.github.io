@@ -23,8 +23,8 @@ Johny? Who's Johny? I thought his name was John. I could have sworn it was. It i
 >-Table of three, please.<br>
 >-Three as in three individual people?<br>
 >-What? Yes, me and these two.<br>
->-So you require aone table then?
->-Yes... Of course.
+>-So you require one table then?<br>
+>-Yes... Of course.<br>
 >-This way, please.<br>
 >-Thank you.<br>
 
