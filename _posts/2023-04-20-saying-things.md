@@ -8,7 +8,7 @@ categories: media
 
 ![Vienna](https://f4.bcbits.com/img/0030972589_20.jpg)
 
-*You are saying things but they don't mean things. Or at least, they don't mean what you think they do.*
+***You are saying things but they don't mean things. Or at least, they don't mean what you think they do.***
 
 ## Johny
 
@@ -23,4 +23,4 @@ Johny? Who's Johny? I thought his name was John. I could have sworn it was. It i
 
 
 
-*You are doing things and they actually have the desired effect.*
+***You are doing things and they actually have the desired effect.***
