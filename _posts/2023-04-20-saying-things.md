@@ -20,11 +20,11 @@ Johny? Who's Johny? I thought his name was John. I could have sworn it was. It i
 
 ## Persons
 
->Table of three, please.
->Three as in three people?
->What? Yes, me and these two.
->This way, please.
->Thank you.
+>Table of three, please.<br>
+>Three as in three people?<br>
+>What? Yes, me and these two.<br>
+>This way, please.<br>
+>Thank you.<br>
 
  
 
