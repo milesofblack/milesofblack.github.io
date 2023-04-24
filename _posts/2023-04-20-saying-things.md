@@ -18,7 +18,7 @@ categories: media
 Johny? Who's Johny? I thought his name was John. I could have sworn it was. It is usually an affectionate diminutive of the masculine given name John, says Wikipedia. So she might actually be talking about the same person but perhaps she knows something about him I simply seem to have missed. That must be it... Unless, her casual remark was used to convey a character(?) trait of hers. Great, we can now use the desired descriptor when talking about her, whatever that is. Is Johny ok though? She'll never know.
 
 
-
+## 
 
 
 
