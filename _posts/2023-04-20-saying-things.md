@@ -5,8 +5,7 @@ layout: post
 categories: media
 ---
 
-
-![Vienna]([https://f4.bcbits.com/img/0032314570_20.jpg])
+![Vienna]([https://f4.bcbits.com/img/0032314570_20.jpg](https://f4.bcbits.com/img/0032314570_20.jpg))
 
 ***You are saying things but they don't mean things. Or at least, they don't mean what you think they do.***
 
