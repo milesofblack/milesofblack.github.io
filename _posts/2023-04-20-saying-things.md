@@ -27,9 +27,7 @@ Johny? Who's Johny? I thought his name was John. I could have sworn it was. It i
 >-This way, please.<br>
 >-Thank you.<br>
 
-Three as in three people. Seperate entities sitting at a table drinking coffee and telling lies. The telling lies part is done involuntarily.
-
-
+Three as in three people. Seperate entities sitting at a table drinking coffee and lying to each other.
 
 
 ***You are doing things and they actually have the desired effect.***
