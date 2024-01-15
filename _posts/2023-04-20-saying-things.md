@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Vienna](https://f4.bcbits.com/img/0032314570_20.jpg)
+![Vienna]([https://f4.bcbits.com/img/0032314570_20.jpg](https://scontent.fskg5-1.fna.fbcdn.net/v/t1.15752-9/343588672_619413283394363_1514612450176553894_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeFZpCqX_lOeblV0v0gASo12hVmM362hgF2FWYzfraGAXScPa__TX480YU-TyFIBc2DnQh47NyWweIZwcdb_eZm_&_nc_ohc=fu8jjTWVWDoAX8CkDFp&_nc_ht=scontent.fskg5-1.fna&cb_e2o_trans=q&oh=03_AdSDtnTmREVKb-o4scNzeMgx5hZYebeJzmbK4Z4iNrEdAw&oe=65CD1348))
 
 ***You are saying things but they don't mean things. Or at least, they don't mean what you think they do.***
 
