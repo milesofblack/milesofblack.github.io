@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Vienna](https://ibb.co/VQwLdgg)
+![Vienna](https://i.ibb.co/wwcdTSS/343588672-619413283394363-1514612450176553894-n.jpg)
 
 ***You are saying things but they don't mean things. Or at least, they don't mean what you think they do.***
 
